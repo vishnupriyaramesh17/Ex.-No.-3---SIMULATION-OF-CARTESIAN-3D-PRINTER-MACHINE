@@ -52,6 +52,8 @@
 
 
 ![245524995-ac42baa8-8e55-4002-8497-31e9bf0d0e11](https://github.com/vishnupriyaramesh17/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393589/5418ba9a-9ec3-41d3-8f6f-4098ff5923ce)
+![245525038-1379d0f8-27cb-44b1-bdcc-f036a3e07923](https://github.com/vishnupriyaramesh17/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393589/fed1829b-67bc-4408-b0e5-bc88e8ed3f22)
+
 
 
 ![245525095-709e528e-086b-4aaf-b73f-14273423b81a](https://github.com/vishnupriyaramesh17/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393589/97bc5aaa-8ed9-49a9-beb1-c77760f7dc15)
